@@ -1,0 +1,33 @@
+input[type="text"]{
+	background-color:#1f2326;
+
+ 	border-color: transparent;
+}
+
+
+.footer1 .glyphicon{
+	font-size: 20px;
+	margin-right: 10px;
+	margin-top:5px;
+}
+
+.footer1 .btn-default{
+	background-color:#1d2124;
+	color:white;
+	border-radius: 0;
+	border:transparent;
+	margin-bottom: 5px;
+}
+
+.footer1 ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.footer1 li:before {
+    content: "• ";
+    color: white;
+}
+
+}
+
